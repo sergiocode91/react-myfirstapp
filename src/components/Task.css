@@ -1,0 +1,12 @@
+.task{
+  padding: 10px;
+}
+.btnDelete{
+  font-size: 15px;
+  color: white;
+  padding: 2px 8px;
+  margin-left: 10px;
+  border-radius: 50px;
+  border: none;
+  background-color: #ea2027;
+}
